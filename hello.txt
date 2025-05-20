@@ -1,2 +1,2 @@
-Hell0, Git and GitHub!
+Hello, Git and GitHub!
  
